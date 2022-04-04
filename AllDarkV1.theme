@@ -1,0 +1,54 @@
+; Copyright © Microsoft Corp.
+;Theme by https://github.com/ReaverTommy
+
+[Theme]
+; Windows - IDS_THEME_DISPLAYNAME_AERO
+DisplayName=AllDarkV1
+
+[Control Panel\Desktop]
+PicturePosition=4
+
+[VisualStyles]
+Path=%SystemRoot%\Resources\Themes\aero\aeroLite.msstyles
+ColorStyle=NormalColor
+Size=NormalSize
+AutoColorization=0
+ColorizationColor=0X7F000000
+VisualStyleVersion=10
+HighContrast=3
+
+[MasterThemeSelector]
+MTSM=RJSPBS
+
+[Control Panel\Colors]
+ActiveTitle=26 28 29
+Background=26 28 29
+ButtonFace=26 28 29
+ButtonText=255 255 255
+GrayText=255 255 255
+Hilight=125 187 247
+HilightText=255 255 255
+HotTrackingColor=125 187 247
+InactiveTitle=26 28 29
+InactiveTitleText=255 255 255
+TitleText=255 255 255
+Window=26 28 29
+WindowText=255 255 255
+Scrollbar=26 28 29
+Menu=0 0 0
+WindowFrame=0 0 0 
+MenuText=255 255 255 
+ActiveBorder=26 28 29
+InactiveBorder=26 28 29
+AppWorkspace=0 0 0
+ButtonShadow=128 128 128
+ButtonHilight=190 125 248
+ButtonDkShadow=0 0 0 
+ButtonLight=255 255 255
+InfoText=255 255 255
+InfoWindow=26 28 29
+ButtonAlternateFace=192 192 192
+GradientActiveTitle=127 255 127
+GradientInactiveTitle=0 128 0
+MenuHilight=127 255 127
+MenuBar=255 255 255
